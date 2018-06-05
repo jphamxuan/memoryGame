@@ -19,3 +19,9 @@
 .titlebox p {
   font-size: 1.8em;
 }
+
+.sstitle {
+  margin: 50px;
+  margin-bottom: -20px;
+  min-height: 200px;
+}
